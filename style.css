@@ -70,6 +70,7 @@ body{
 }
 .socialmedia ul li:hover a i{
     transform: translateZ(40px);
+    font-size:6.5rem;
 }
 .js-tilt-glare{
     border-radius: 1rem;
